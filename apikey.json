@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mediconnect-37",
+  "private_key_id": "ae2132f6c1c5500ca570b42e2ffa2ec81df015f4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4XQCbm5uOJu35\n3n/KcboAOfwRznzvWCUFyoKSkKm4txPSibZFFxgcaRxFU8Yy15YF7gjd6eYeWpO4\n2a7pVcss7RG/lop1K+fVVTaYrO32vwPDIsj0P5pb21Qfbh7EbUhNBcEEiDzrOknr\n39/ML40kwFd7DM+nY78oiuH/BCcVSeegwCwUO3rT/KkewFoUtN+1TcMF2lplCNjJ\nChsrDZF3XyD+EpjHHDsxNqMBRXxdFvTGfaIluEmnsHXhZwfLILpjh3vGSRt6Ht6w\nQYNjyZT8+iCfg7Afr3U8ZP39U/BngbMXxcqVUTWMNAZnOc7hWelMDI9nALGY5ix1\n8SnNZ0TdAgMBAAECggEACbX8XjXoD6jFSDAMEyHCZliniliSBBlkedWc4xNznSMn\njCNs0l7RCk4PCyfKfMsWP+G13dqAIIEs3sO4jtnSBd/G24yWZm2VnIsMgSY6spCF\nJjYi15qyCryWxcELJdWLxWLUM+TpMIq1chMsupiWmqT29qhKF8sNOpl2JfSWCmzv\nNwSgX9qQzGHBtFvRsOFAxnXZkP3Fu873TLMzR4WB2PMCGqcHx9fASIw+UdV91mM+\njUl/p1OLyr3hDM4/+ZbqyAPgtCjOHwSoePs5fqU6j3vhFjzZW6IlfZzAoscLhIf5\nNa51PL7klPCZztgNFJ6D41ogWrcKJMBFpOifjRPiEQKBgQDlQWBMskJE955aAy95\nQjOsSVmiqGq1YzsVN+BuAwzrIKaVgK/QE2WUQ/gEUeZvI8bZngLKAgJ+CeJWzuqW\nvKU08m65ttvBAKVEWX1OFBJnckQsVjBGHFLCjMfCVcx3DM1MJSvnwpixSMI1h4u1\nbBBimXz0QxTQmABGQqGSYuFnMwKBgQDN3vD5c43HStNTsnFITDSLi3/XekJabupO\ntz5xVHCtkpQg331NFjuJiYjdHzfranmQ4nga0n1/zbyilMNH1egQWSsYrSCmuVfS\n4CIPM+0TrmxYZMUOnML0jtFGXkhqjcOyw8G3RrJ8RD8u8x7T/qlNmq4uggBIi9fH\njxndl/NjrwKBgQC6xj1/nscwyxAew3Oc9duFZKj7RPzS1IphKgnVdvTCZvJw4Mvb\n2MGsPofEdTkomNw7lWkuTN7c8o6NLLygnAZ4kX62HQ0CO9VpTwMwZlfsIYL7ICjq\nJc8jI3DnmeEfqLVlcO9JPRgLb3ySAeFHqEfdHLFZi4FcxEmM9GIQEjETUwKBgGLM\nx6Evz68BPgJA9RTZXa5KuIPU7Nsxt8knMBR7jcf/PI+6Mgw4y0Hqe4CDZvbYFpdt\n2G4m7ovTVOBBvKZRBhoycPhavfzFnlxZrH7XUMPNRbn2QowMt5Nepxi6Ts60UmMM\nh39JsoboydniW70pzl6sCUPQqAoo8tmW17b9IZWJAoGAD/AfQYY7YZ1R++VIlGAw\n6uDtjCvADkvKfZ6L38aIZ2NsV8HoldkwUSm5JcdmyeY8TX78q8ejBaRlCExanldt\nrcKoyLiUAfQm8l8ygI31gF0Bm/S6yqevy6JYA8bR4P112AfrKcjrgv8PrdndNfMM\ndmId6hfFl1047kiWZIoa+Y8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mediconnect@mediconnect-37.iam.gserviceaccount.com",
+  "client_id": "115645479948680330249",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mediconnect%40mediconnect-37.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
